@@ -1,16 +1,14 @@
-### Hi there 👋
+# I'm Asato Sekiya!
 
-<!--
-**potsunen0221/potsunen0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 I’m a Ph.D. student studying biology at Miyazaki University. 
 
-Here are some ideas to get you started:
+🧬 My research interests are stem cell biology, epigenetics, bioinformatics, and veterinary medicine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+### main (for analysis) 
+<img src="https://img.shields.io/badge/-R-276DC3.svg?logo=r&style=plastic" height="30"> <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic" height="30">  
+### as a hobby  
+<img src="https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=plastic" height="30"> <img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic" height="30"> <img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic" height="30"> <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic" height="30"> <img src="https://img.shields.io/badge/-Adobe%20dreamweaver-35FA00.svg?logo=adobe-dreamweaver&style=plastic" height="30"> <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic" height="30">
+
+## Stats
+[![Stats](https://github-readme-stats.vercel.app/api?username=potsunen0221&count_private=true&show_icons=true)](https://github.com/potsunen0221) [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potsunen0221&layout=compact)](https://github.com/potsunen0221)
