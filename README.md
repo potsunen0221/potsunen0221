@@ -12,8 +12,8 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=potsunen0221&count_private=true&show_icons=true)](https://github.com/potsunen0221) [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potsunen0221&layout=compact)](https://github.com/potsunen0221)
 
 ## 
-Asato Sekiya
-Postdoctoral Researcher
-Department of Trophoblast Research
-Institute of Molecular Embryology and Genetics
-Kumamoto University
+Asato Sekiya  
+Postdoctoral Researcher  
+Department of Trophoblast Research  
+Institute of Molecular Embryology and Genetics  
+Kumamoto University  
